@@ -203,7 +203,7 @@ export default function Home() {
           </h2>
           <div className="edu-grid">
             <Reveal className="edu-card highlight">
-              <span className="edu-tag">In Progress · Jan – Apr 2026</span>
+              <span className="edu-tag">Jan – Apr 2026</span>
               <h3>SOC Analyst Certification</h3>
               <p>Cyber Shujaa · Online Training</p>
               <p className="edu-desc">
